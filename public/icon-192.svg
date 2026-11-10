@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#0284c7" />
+  <!-- Sparkle and shield -->
+  <path d="M96 28 C130 40 156 50 156 86 C156 128 126 156 96 168 C66 156 36 128 36 86 C36 50 62 40 96 28 Z" fill="#0369a1" />
+  <path d="M96 38 C124 48 144 57 144 88 C144 122 119 146 96 156 C73 146 48 122 48 88 C48 57 68 48 96 38 Z" fill="#0ea5e9" />
+  <!-- Clean Checkmark & Sparkle -->
+  <path d="M76 96 L90 110 L122 76" stroke="#ffffff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <circle cx="128" cy="56" r="6" fill="#fef08a" />
+  <circle cx="64" cy="62" r="4" fill="#ffffff" opacity="0.8" />
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "CleanOps - Quản Lý Doanh Nghiệp Dịch Vụ Vệ Sinh",
+  "description": "Hệ thống quản lý vận hành toàn diện cho doanh nghiệp vệ sinh: điều phối đơn hàng, chấm công GPS, nghiệm thu khách hàng bằng OTP, kiểm soát chất lượng, tính lương và tài chính doanh nghiệp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
